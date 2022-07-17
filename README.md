@@ -1,4 +1,4 @@
 # Home-Assistant
-# Test intégration BBox
-# a mettre dans le répertoire /config/custom_components
+## Test integration BBox
+## copy bbox_mcp to /config/custom_components
 
